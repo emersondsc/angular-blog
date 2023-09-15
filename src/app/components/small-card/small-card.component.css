@@ -2,10 +2,12 @@
   margin-bottom: 10px;
   width: 500px;
 
+
 }
 .container__small-card-content {
   display: flex;
   flex-direction: row;
+
 
 }
 .small-card__photo img{
@@ -15,7 +17,7 @@
 }
 
 .small-card__title {
-
+  font-size: 0.5rem;
   display: flex;
   justify-content: center;
   align-items: center;
